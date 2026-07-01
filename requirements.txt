@@ -1,0 +1,7 @@
+fpdf2
+allure-python-commons
+allure-pytest
+pytest
+pytest-html
+requests
+selenium
