@@ -65,7 +65,7 @@ pip install -r requirements.txt
 Check if Java is installed:
 
 ```bash
-allure --version
+java --version
 ```
 
 ---
