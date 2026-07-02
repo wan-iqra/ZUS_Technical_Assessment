@@ -1,6 +1,6 @@
 ### Zus ☕ Technical Assessment | Python + Selenium + PyTest + Allure
 
-This is a demo project showcasing my skills in UI test automation using the **Selenium WebDriver** and **PyTest** frameworks, with reporting via **pytest-html** and **Allure**.
+This is a demo project showcasing my skills in UI test automation using the **Selenium WebDriver** and **PyTest** frameworks, with reporting via **Allure**.
 
 ---
 
